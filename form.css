@@ -28,3 +28,8 @@ input{
         width: 60%;
     }   
 }
+@media (max-width: 600px) {
+    #box{
+        width: 80%;
+    }   
+}
